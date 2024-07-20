@@ -1,7 +1,7 @@
 
 <h1 align="center">Relógio Digital.</h1>
 
-<p align="center">Esse projeto é sobre um relógio digital onde foco em treinar as hbilidades em front-end.</p>
+<p align="center">Esse projeto é sobre um relógio digital onde o foco principal é treinar minhas habilidades em front-end.</p>
 
 <p align="center">Nele, são aplicadas as seguintes tecnologias:
 HTML;
